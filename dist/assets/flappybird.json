@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "Grass": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 810,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 810,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 810,
+        "h": 152
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Block0": {
+      "frame": {
+        "x": 810,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Block1": {
+      "frame": {
+        "x": 0,
+        "y": 152,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Cloud2": {
+      "frame": {
+        "x": 256,
+        "y": 152,
+        "w": 225,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 225,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 225,
+        "h": 122
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Cloud0": {
+      "frame": {
+        "x": 481,
+        "y": 152,
+        "w": 224,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Cloud1": {
+      "frame": {
+        "x": 705,
+        "y": 152,
+        "w": 184,
+        "h": 104
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 184,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 184,
+        "h": 104
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Bird1": {
+      "frame": {
+        "x": 481,
+        "y": 261,
+        "w": 127,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 3,
+        "w": 127,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 113
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Bird0": {
+      "frame": {
+        "x": 608,
+        "y": 261,
+        "w": 127,
+        "h": 95
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 3,
+        "w": 127,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 113
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "flappybird.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1066,
+      "h": 408
+    },
+    "scale": 1
+  }
+}
