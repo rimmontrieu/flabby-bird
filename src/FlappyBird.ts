@@ -202,7 +202,6 @@ export default class FlappyBird {
     // Crash/shockwave filter animation
     this.sw = new ShockwaveFilter();
     this.sw.amplitude = 8;
-    this.container.filters = [this.sw];
   }
 
   /**
@@ -279,6 +278,9 @@ export default class FlappyBird {
       <div class='text-2xl'>Click to Restart</div>
     `;
     this.soundFall.play();
+
+    // Apply filter
+    this.container.filters = [this.sw];
   }
 
   /**
@@ -306,6 +308,7 @@ export default class FlappyBird {
     // Reset other components
     this.root.removeChild(this.gover);
     this.sw.time = 0;
+    this.container.filters = [];
     this.grasses.position.x = 0;
 
     // Reset block
